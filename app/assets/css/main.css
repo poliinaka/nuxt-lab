@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+:root {
+  --ui-primary: #9273EA;
+}
+
+body{
+  font-family: Raleway, sans-serif;
+  background:#F5F5F5;
+}
