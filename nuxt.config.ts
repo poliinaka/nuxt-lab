@@ -33,7 +33,11 @@ export default defineNuxtConfig({
       ]
     }
   },
-
+  
+  fonts: {
+    provider: 'none'
+  },
+  
   runtimeConfig: {
     public: {}
   }
